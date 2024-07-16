@@ -40,10 +40,17 @@ let negValue = -value;
 let str1 = "hello";
 let str2 = " vishal";
 let str3 = str1 + str2;
-console.log(str3);
+console.log(str3); // outupt = hello vishal
 
 
 console.log("1" + 2);
 console.log(1 + "2");
 console.log("1" + 2 + 2);
 console.log(1 + 2 + "2");
+// ***************ouput*********
+/*
+12
+12
+122
+32
+ */
