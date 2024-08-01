@@ -35,8 +35,11 @@ console.log(typeof stringNUmber)
 
 let value = 3;
 let negValue = -value;
-// console.log(negValue);
+console.log(negValue);
+// output -3
 
+console.log(3 + 4);
+// output 7
 let str1 = "hello";
 let str2 = " vishal";
 let str3 = str1 + str2;
@@ -47,6 +50,7 @@ console.log("1" + 2);
 console.log(1 + "2");
 console.log("1" + 2 + 2);
 console.log(1 + 2 + "2");
+
 // ***************ouput*********
 /*
 12
